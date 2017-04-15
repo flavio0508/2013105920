@@ -6,10 +6,7 @@ using System.Threading.Tasks;
 
 namespace _2013105920
 {
-    class Program
+    class Teclado
     {
-        static void Main(string[] args)
-        {
-        }
     }
 }
