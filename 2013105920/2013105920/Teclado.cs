@@ -6,7 +6,32 @@ using System.Threading.Tasks;
 
 namespace _2013105920
 {
-    class Teclado
+    public class Teclado
     {
+        private int _NumeroCuenta;
+        private int _Pin;
+
+        public int NumeroCuenta
+        {
+            get { return _NumeroCuenta; }
+            set { _NumeroCuenta = value; }
+        }
+
+        public int Pin
+        {
+            get { return _Pin; }
+            set { _Pin = value; }
+        }
+
+        public Teclado()
+        {
+
+        }
+        public Teclado(int numeroCuenta, int pin)
+        {
+            NumeroCuenta = numeroCuenta;
+            Pin = pin;
+        }
+    
     }
 }

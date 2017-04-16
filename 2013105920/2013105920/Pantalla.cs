@@ -6,7 +6,22 @@ using System.Threading.Tasks;
 
 namespace _2013105920
 {
-    class Pantalla
+    public class Pantalla
     {
+        private string _Texto;
+
+        public string Texto
+        {
+            get { return _Texto; }
+            set { _Texto = value; }
+        }
+        public Pantalla()
+        {
+
+        }
+        public Pantalla(string texto)
+        {
+            Texto = texto;
+        }
     }
 }

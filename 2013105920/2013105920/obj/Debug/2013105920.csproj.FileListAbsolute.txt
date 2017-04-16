@@ -1,1 +1,5 @@
 C:\Users\marco\Documents\Visual Studio 2013\Projects\2013105920\2013105920\2013105920\bin\Debug\2013105920.exe.config
+C:\Users\marco\Documents\Visual Studio 2013\Projects\2013105920\2013105920\2013105920\bin\Debug\2013105920.exe
+C:\Users\marco\Documents\Visual Studio 2013\Projects\2013105920\2013105920\2013105920\bin\Debug\2013105920.pdb
+C:\Users\marco\Documents\Visual Studio 2013\Projects\2013105920\2013105920\2013105920\obj\Debug\2013105920.exe
+C:\Users\marco\Documents\Visual Studio 2013\Projects\2013105920\2013105920\2013105920\obj\Debug\2013105920.pdb
